@@ -20,7 +20,7 @@ void Small::print()
             << p->i
             << "\n"
             << p->s
-            << "\n" ;
+            << "\n";
 }
 
 
